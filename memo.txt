@@ -1,0 +1,8 @@
+https://kitle.xyz/post/61/
+도메인
+hanny.pythonanywhere.com
+python3 -m venv myvenv
+
+source myvenv/bin/activate
+pip3 install flask
+mkdir mysite
